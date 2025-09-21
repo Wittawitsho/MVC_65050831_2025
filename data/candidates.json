@@ -1,0 +1,13 @@
+[
+  {"username":"admin","password":"admin123","role":"admin"},
+  {"username":"10000001","password":"pass1","role":"candidate","candidate_id":"10000001","first_name":"A","last_name":"One","email":"a.one@example.com"},
+  {"username":"10000002","password":"pass2","role":"candidate","candidate_id":"10000002","first_name":"B","last_name":"Two","email":"b.two@example.com"},
+  {"username":"10000003","password":"pass3","role":"candidate","candidate_id":"10000003","first_name":"C","last_name":"Three","email":"c.three@example.com"},
+  {"username":"10000004","password":"pass4","role":"candidate","candidate_id":"10000004","first_name":"D","last_name":"Four","email":"d.four@example.com"},
+  {"username":"10000005","password":"pass5","role":"candidate","candidate_id":"10000005","first_name":"E","last_name":"Five","email":"e.five@example.com"},
+  {"username":"10000006","password":"pass6","role":"candidate","candidate_id":"10000006","first_name":"F","last_name":"Six","email":"f.six@example.com"},
+  {"username":"10000007","password":"pass7","role":"candidate","candidate_id":"10000007","first_name":"G","last_name":"Seven","email":"g.seven@example.com"},
+  {"username":"10000008","password":"pass8","role":"candidate","candidate_id":"10000008","first_name":"H","last_name":"Eight","email":"h.eight@example.com"},
+  {"username":"10000009","password":"pass9","role":"candidate","candidate_id":"10000009","first_name":"I","last_name":"Nine","email":"i.nine@example.com"},
+  {"username":"10000010","password":"pass10","role":"candidate","candidate_id":"10000010","first_name":"J","last_name":"Ten","email":"j.ten@example.com"}
+]

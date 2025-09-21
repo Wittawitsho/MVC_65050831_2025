@@ -1,0 +1,12 @@
+[
+  {"job_id":"20000001","title":"Software Engineer Intern","description":"Develop features","company_id":"20000001","deadline":"2025-12-31","status":"open"},
+  {"job_id":"20000002","title":"Data Analyst Intern","description":"Analyze datasets","company_id":"20000002","deadline":"2025-11-30","status":"open"},
+  {"job_id":"20000003","title":"Frontend Developer","description":"UI dev with React","company_id":"20000001","deadline":"2025-10-15","status":"open"},
+  {"job_id":"20000004","title":"Backend Developer","description":"API & DB","company_id":"20000001","deadline":"2025-09-30","status":"open"},
+  {"job_id":"20000005","title":"Machine Learning Intern","description":"ML model prototyping","company_id":"20000002","deadline":"2025-12-01","status":"open"},
+  {"job_id":"20000006","title":"DevOps Intern","description":"CI/CD pipelines","company_id":"20000001","deadline":"2025-10-01","status":"open"},
+  {"job_id":"20000007","title":"QA Engineer","description":"Test automation","company_id":"20000002","deadline":"2025-11-15","status":"open"},
+  {"job_id":"20000008","title":"Mobile Developer","description":"Android/iOS apps","company_id":"20000001","deadline":"2025-12-15","status":"open"},
+  {"job_id":"20000009","title":"Product Manager Intern","description":"Support PM tasks","company_id":"20000002","deadline":"2025-10-20","status":"open"},
+  {"job_id":"20000010","title":"UX Designer","description":"Design prototypes","company_id":"20000001","deadline":"2025-11-01","status":"close"}
+]

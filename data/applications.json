@@ -1,0 +1,22 @@
+[
+    {
+        "job_id": "20000004",
+        "candidate_id": "10000001",
+        "applied_at": "2025-09-21"
+    },
+    {
+        "job_id": "20000002",
+        "candidate_id": "10000002",
+        "applied_at": "2025-09-21"
+    },
+    {
+        "job_id": "20000006",
+        "candidate_id": "10000002",
+        "applied_at": "2025-09-21"
+    },
+    {
+        "job_id": "20000003",
+        "candidate_id": "10000001",
+        "applied_at": "2025-09-21"
+    }
+]
